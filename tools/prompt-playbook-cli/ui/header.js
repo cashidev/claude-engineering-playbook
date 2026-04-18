@@ -8,7 +8,7 @@ export function showHeader() {
   // ASCII Logo
   console.log(
     chalk.cyan(
-      figlet.textSync("Claude Playbook", {
+      figlet.textSync("Prompt Playbook", {
         horizontalLayout: "default"
       })
     )
@@ -16,7 +16,7 @@ export function showHeader() {
 
   // Boxed subtitle
   const header = boxen(
-    chalk.bold.green("🚀 Claude Engineering Playbook CLI\n") +
+    chalk.bold.green("🚀 AI Prompt Playbook CLI\n") +
       chalk.gray("Production-ready AI prompt templates for engineers"),
     {
       padding: 1,

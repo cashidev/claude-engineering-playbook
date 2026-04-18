@@ -1,9 +1,9 @@
 {
-  "name": "claude-playbook",
+  "name": "prompt-playbook",
   "version": "1.0.0",
   "description": "CLI for Claude Engineering Prompt Playbook",
   "bin": {
-    "claude-playbook": "index.js"
+    "claude-code-playbook": "index.js"
   },
   "type": "module",
   "dependencies": {

@@ -1,5 +1,5 @@
 export const prompts = {
-  "Code Review": `
+  "review": `
 You are a senior software engineer performing a code review.
 
 Task:
@@ -14,7 +14,7 @@ Code:
 <paste code here>
 `,
 
-  "Debugging": `
+  "debug": `
 You are a senior engineer.
 
 Task:
@@ -32,7 +32,7 @@ Code:
 <code here>
 `,
 
-  "Refactoring": `
+  "refactor": `
 You are a senior engineer.
 
 Task:
