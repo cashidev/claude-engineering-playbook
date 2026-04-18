@@ -8,6 +8,7 @@ An interactive CLI for the [Prompt Engineering Playbook](../../README.md). Selec
 
 ```bash
 cd tools/prompt-playbook-cli
+npm install
 npm link
 ```
 
@@ -34,6 +35,8 @@ npm install -g .
 **Option 3 — Run without installing:**
 
 ```bash
+cd tools/prompt-playbook-cli
+npm install
 node index.js
 ```
 
