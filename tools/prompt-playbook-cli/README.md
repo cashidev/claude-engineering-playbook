@@ -23,7 +23,7 @@ prompt-playbook-cli review
 To unlink later:
 
 ```bash
-npm unlink -g prompt-playbook
+npm unlink -g prompt-playbook-cli
 ```
 
 **Option 2 — Install globally:**
