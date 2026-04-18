@@ -1,8 +1,42 @@
 # 🚀 Claude Engineering Playbook
-<img src="https://komarev.com/ghpvc/?username=cashidev&style=for-the-badge" />
 
-> **Production-ready patterns for using AI (Claude) in real software engineering workflows.**
-> Not theory. Not fluff. Just practical, reusable techniques.
+<p align="left">
+  <!-- Repo Stats -->
+  <img src="https://komarev.com/ghpvc/?username=cashidev&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/cashidev/claude-engineering-playbook?style=for-the-badge" />  
+  <img src="https://img.shields.io/github/forks/cashidev/claude-engineering-playbook?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/cashidev/claude-engineering-playbook?style=for-the-badge" />
+  <br/>
+
+  <!-- Activity -->
+  <img src="https://img.shields.io/github/last-commit/cashidev/claude-engineering-playbook?style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/m/cashidev/claude-engineering-playbook?style=for-the-badge" />
+  <br/>
+
+  <!-- Tech / Purpose -->
+  <img src="https://img.shields.io/badge/AI-Claude-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Engineering%20Workflows-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Level-Production%20Ready-green?style=for-the-badge" />
+  <br/>
+
+  <!-- License -->
+  <img src="https://img.shields.io/github/license/cashidev/claude-engineering-playbook?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
+</p>
+
+---
+
+> **Production-ready patterns for using Claude in real software engineering workflows.**
+> No fluff. Just practical techniques engineers actually use.
+
+---
+
+## ✨ Highlights
+
+* 🧠 Copy-paste prompt templates
+* 🔁 Proven engineering workflows
+* 🧪 Real-world examples
+* 🚫 Anti-patterns to avoid
 
 ---
 
