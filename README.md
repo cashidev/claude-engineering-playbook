@@ -199,7 +199,7 @@ Code:
 
 ## 🛠️ Tools & Integrations
 
-* CLI for Claude-assisted workflows ✅
+* CLI for Claude-assisted workflows ✅ : [Prompt-Playbook-Cli](./tools/prompt-playbook-cli)
 * Git hooks for automated code review 🚧
 * PR assistant for better reviews 🚧
 
